@@ -20,5 +20,8 @@ export class TabsPage {
 
   constructor() {
 
+    
   }
+
+  name: "juan";
 }
