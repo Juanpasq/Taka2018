@@ -1,5 +1,4 @@
 import { NewuserComponent } from './../components/newUser/newUser';
-
 import { LoginComponent } from './../components/login/login';
 import { NgModule, ErrorHandler } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
