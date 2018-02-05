@@ -1,0 +1,64 @@
+page-about {
+
+
+.loginBox {
+    text-align: center;
+    margin-top: 30%;
+    
+
+}
+
+.header {
+    visibility: hidden;
+}
+
+.master {
+    vertical-align: middle;
+    overflow-x: hidden;
+    overflow: hidden;
+    color: white;
+    background-color: rgb(43, 16, 42);
+    display: table-cell;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+}
+
+.login-face {
+    width: 75%;
+    background-color: #4C1B2F;
+    margin: 0 auto;
+    padding: 1em;
+}
+
+.login-taka {
+    background-color: #C9283E;
+    margin: 1.3em 0 1.3em 0;
+    padding: 1em;
+    width: 75%;
+}
+
+.login-new {
+    background-color: #F0433A;
+    margin: 0 auto;
+    padding: 1em;
+    width: 75%;
+}
+
+.hr {
+    align-content: justify;
+    width: 80%;
+    height: 1.5px;
+    background-color: white;
+    margin: auto;
+}
+
+h3 {
+    letter-spacing: 0.2em;
+}
+
+h5 {
+    letter-spacing: 0.2em;
+    font-size: 1em;
+}
+}
